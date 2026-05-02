@@ -83,7 +83,7 @@ Standard compilers are entirely unaware of high-energy astrophysics and will att
 # -O0 is mandatory to prevent the compiler from caching the array in CPU registers,
 # which are heavily shielded from cosmic radiation compared to exposed RAM modules.
 
-gcc -std=c2x -O0 -Wall -Wextra -o cosmic_sort src/cosmic.c
+gcc -std=c2x -O0 -Wall -Wextra -o cosmic_sort src/cosmic-ray.c
 ```
 
 To execute:
