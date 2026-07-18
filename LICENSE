@@ -13,8 +13,12 @@ DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
   0. You just DO WHAT THE FUCK YOU WANT TO.
 
 
-## ⚠️ Satire & Liability Notice
+⚠️ Satire & Liability Notice
 
-This project is a **purely theoretical joke** and an exercise in computer science satire. 
+This project is a purely theoretical joke and an exercise in computer science satire. 
 
-Do **NOT** attempt to run this code in a production environment, do **NOT** disable ECC memory on critical systems, and please, for the love of physics, do **NOT** place radioactive materials from smoke detectors near your RAM. The author accepts absolute zero liability for fried components, regulatory investigations, or lack of timely solar flares.
+Do NOT attempt to run this code in a production environment,
+do NOT disable ECC memory on critical systems, and please, for the love of physics,
+do NOT place radioactive materials from smoke detectors near your RAM. 
+The author accepts absolute zero liability for fried components, 
+regulatory investigations, or lack of timely solar flares.
